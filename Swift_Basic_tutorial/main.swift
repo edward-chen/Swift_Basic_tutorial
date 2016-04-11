@@ -8,5 +8,9 @@
 
 import Foundation
 
-print("Hello, World!")
+//--------------------------------
+// main function execute here
+//--------------------------------
+dataTypeTest()
 
+exit(0)
